@@ -15,7 +15,7 @@ This project was created for my final project for CMP_SCI 3140 at UMSL. I plan o
 
 ## How to Play
 
-The game can be played on the browser through [here](https://simmer.io/@chonyee/birb) or downloaded [here]
+The game can be played in the browser through [here](https://simmer.io/@chonyee/birb) or downloaded [here]
 
 ## Screenshots
 
