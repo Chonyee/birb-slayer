@@ -15,7 +15,7 @@ This project was created for my final project for CMP_SCI 3140 at UMSL. I plan o
 
 ## How to Play
 
-The game can be played in the browser through [here](https://simmer.io/@chonyee/birb) or downloaded [https://github.com/Chonyee/birb-slayer/releases/download/v1.0/BirbSlayer-windows.zip]
+The game can be played in the browser through [here](https://simmer.io/@chonyee/birb) or downloaded [here](https://github.com/Chonyee/birb-slayer/releases/download/v1.0/BirbSlayer-windows.zip)
 
 ## Screenshots
 
